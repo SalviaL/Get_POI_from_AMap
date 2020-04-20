@@ -1,9 +1,9 @@
 '''
-@Author: your name
+@Author: LU Weipeng
 @Date: 2020-04-18 09:21:45
 @LastEditTime: 2020-04-18 17:35:20
-@LastEditors: Please set LastEditors
-@Description: In User Settings Edit
+@LastEditors: LU Weipeng
+@Description: this file is list of keywords and cities created according to https://lbs.amap.com/api/webservice/guide/api/search/
 @FilePath: \AMap\keyword_type.py
 '''
 type = [
