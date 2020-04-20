@@ -1,9 +1,7 @@
 # Get_POI_from_AMap
 
-<center>
 ![关注一下呗](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzUzMjE1MjYwNA==&mid=2247483920&idx=1&sn=f9ae4e52ecdb1291436f3fa625c81010&send_time=)
 微信公众号：Salvia的胡说八道
-</center>
 
 从高德地图获取POI数据
 
