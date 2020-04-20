@@ -24,7 +24,7 @@ page=%s&extensions=all'''
 url_temp = 'http://restapi.amap.com/v3/place/text?key=%s&keywords=%s&city=%s&citylimit=true&children=1&offset=20&page=%s&extensions=all'
 url_example = url_tem % ('<Your Key>','加油站', '长沙市', str(<page>))
 ```
-上面这个字符串是用于检索POI的url，需要提供关键字和城市，关键字和城市可以通过高德的开发者文档(https://lbs.amap.com/api/webservice/guide/api/search/#text)查询。开车总是需要加油的，上面url_example就是在长沙市查询加油站的检索链接。
+上面这个字符串是用于检索POI的url，需要提供关键字和城市，关键字和城市可以通过高德的开发者文档 (https://lbs.amap.com/api/webservice/guide/api/search/#text) 查询。开车总是需要加油的，上面url_example就是在长沙市查询加油站的检索链接。
 
 ## 检索
 ```java
