@@ -2,7 +2,7 @@
 @Author: LU Weipeng
 @Date: 2020-04-18 09:05:27
 @LastEditTime: 2020-04-20 16:58:48
-@LastEditors: Please set LastEditors
+@LastEditors: LU Weipeng
 @Description: version for GITHUB
 @FilePath: \AMap\getpoi.py
 '''
