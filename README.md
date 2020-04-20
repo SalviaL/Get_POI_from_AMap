@@ -37,4 +37,4 @@ def get_poi_by_url(url)
 ```
 这个方法会返回一个json对象，包括city中有关keyword在page页的所有数据。
 
-![我寻思你可以关注一下](https://mmbiz.qpic.cn/mmbiz_png/rXkVB6hSVERndKYb2MIj63YXicbWtBQk350KGicN1iatW799VU5jk0CjVTFtaqoqaCFicTw2p2CibNNu2ia9r4yDUTWQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![我寻思你可以关注一下](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzUzMjE1MjYwNA==&mid=2247483920&idx=1&sn=f9ae4e52ecdb1291436f3fa625c81010&send_time=)
