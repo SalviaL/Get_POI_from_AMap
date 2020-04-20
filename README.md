@@ -1,6 +1,8 @@
 # Get_POI_from_AMap
 微信公众号：Salvia的胡说八道
+
 ![关注一下呗](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzUzMjE1MjYwNA==&mid=2247483920&idx=1&sn=f9ae4e52ecdb1291436f3fa625c81010&send_time=)
+
 从高德地图获取POI数据
 
 各种电子地图作为大型的实时更新的数据库，不好好利用一下怎么可以？正好最近做的论文也是和POI数据相关的（Point of Interest），研究了一波高德地图的POI数据，然后写了个脚本来下载。完整的代码已经上传到GitHub，点击阅读原文可以转跳。这里分享点脚本的核心：
